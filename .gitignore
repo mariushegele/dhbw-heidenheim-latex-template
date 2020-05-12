@@ -2,6 +2,9 @@ doc/
 
 session.tks
 
+## Vim
+*.swp
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
